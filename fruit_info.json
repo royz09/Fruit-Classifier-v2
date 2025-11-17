@@ -1,0 +1,17 @@
+{
+    "apple": {
+        "name": "Apple",
+        "description": "Crispy round fruit with sweet or tart flavor, commonly red, green, or yellow.",
+        "benefits": "High in fiber and vitamin C, promotes heart health."
+    },
+    "banana": {
+        "name": "Banana",
+        "description": "Long curved tropical fruit with soft sweet flesh and a yellow peel when ripe.",
+        "benefits": "Rich in potassium, supports digestion, and provides quick energy."
+    },
+    "orange": {
+        "name": "Orange",
+        "description": "Citrus fruit with a tough, bright orange rind and juicy, sweet-sour pulp.",
+        "benefits": "Excellent source of vitamin C, boosts immune system, and contains antioxidants."
+    }
+}
